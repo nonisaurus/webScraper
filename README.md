@@ -84,6 +84,13 @@ Data extraction: let dates = knwlInstance.get('dates')
 <br>
 
 ### Create web scraper app
-- import packages
-- 
+- import required packages
+- set up basic info (hard coded)
+- make http request
+- handle promise and save response data using cheerio
+- extract html as plain text
+- create new instanse of Knwl and initialise it
+- extract required info using Knwl
+- log info to console
+- deal possible with error
 
